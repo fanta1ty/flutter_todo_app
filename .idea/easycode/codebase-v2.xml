@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/android/app/src/main/kotlin/com/example/flutter_todo_app/MainActivity.kt;/Users/thnu/Desktop/Flutter/flutter_todo_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json;/Users/thnu/Desktop/Flutter/flutter_todo_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json;/Users/thnu/Desktop/Flutter/flutter_todo_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md;/Users/thnu/Desktop/Flutter/flutter_todo_app/ios/Runner/AppDelegate.swift;/Users/thnu/Desktop/Flutter/flutter_todo_app/ios/Runner/Runner-Bridging-Header.h;/Users/thnu/Desktop/Flutter/flutter_todo_app/ios/RunnerTests/RunnerTests.swift;/Users/thnu/Desktop/Flutter/flutter_todo_app/lib/main.dart;/Users/thnu/Desktop/Flutter/flutter_todo_app/lib/ui_updates_demo.dart;/Users/thnu/Desktop/Flutter/flutter_todo_app/test/widget_test.dart;/Users/thnu/Desktop/Flutter/flutter_todo_app/analysis_options.yaml;/Users/thnu/Desktop/Flutter/flutter_todo_app/pubspec.yaml;/Users/thnu/Desktop/Flutter/flutter_todo_app/README.md" />
+  </component>
+</project>
